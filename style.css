@@ -1,0 +1,65 @@
+.h1{
+      
+  background-color:white;
+  border:solid;
+   }
+
+   .note{
+     background-color: red;
+     border: dotted;
+   }
+
+.grid {
+  background: rgb(184, 91, 192);
+  background-color: #F0F8FF;
+  display: flex;
+  justify-content: last baseline;
+  flex-direction: row;
+  text-align: left;
+  flex-wrap: wrap;
+}
+
+.camel {
+  border: 1px solid rgb(223, 99, 99);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+
+.chameleon {
+  border: 1px solid rgb(231, 56, 56);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.pigeon {
+  border: 1px solid rgb(248, 9, 9);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+.teddy {
+  border: 1px solid rgb(104, 11, 11);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:#E8E5E4;
+}
+
+
+
+ 
